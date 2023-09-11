@@ -1,0 +1,5 @@
+2023/09/11 15:05:12 main.go:16: test
+2023/09/11 15:49:49 uses.go:32: sql: converting argument $1 type: unsupported type func() uuid.UUID, a func
+2023/09/11 16:23:34 todos.go:23: table todos has no column named contents
+2023/09/11 16:23:45 todos.go:23: table todos has no column named contents
+2023/09/11 16:24:51 todos.go:23: table todos has no column named contents
